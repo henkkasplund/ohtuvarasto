@@ -1,2 +1,0 @@
-Muutos nro 1
-add -p lisäys 1
